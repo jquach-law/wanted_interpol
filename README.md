@@ -1,4 +1,4 @@
-# Interpol's Wanted List Scraper
+# Interpol's Wanted JSON
 The program will scrape for every single person on the Interpol's 'Wanted List'
 URL: https://www.interpol.int/How-we-work/Notices/View-Red-Notices.
 
